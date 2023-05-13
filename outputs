@@ -1,0 +1,64 @@
+Inventory Management System
+1. Add product
+2. Display products
+3. Sell product
+4. Generate report
+5. Exit
+Enter choice: 1
+Enter product ID: 1
+Enter product name: Pen
+Enter product price: 1.50
+Enter product quantity: 100
+Product added successfully.
+
+Inventory Management System
+1. Add product
+2. Display products
+3. Sell product
+4. Generate report
+5. Exit
+Enter choice: 2
+ID	Name	Price	Quantity
+1	Pen	1.50	100
+
+Inventory Management System
+1. Add product
+2. Display products
+3. Sell product
+4. Generate report
+5. Exit
+Enter choice: 3
+Enter product ID: 1
+Enter quantity: 50
+Sold 50 units of Pen.
+
+Inventory Management System
+1. Add product
+2. Display products
+3. Sell product
+4. Generate report
+5. Exit
+Enter choice: 4
+ID	Name	Price	Quantity	Sales
+1	Pen	1.50	50	75.00
+Total sales: 75.00
+
+Inventory Management System
+1. Add product
+2. Display products
+3. Sell product
+4. Generate report
+5. Exit
+Enter choice: 2
+ID	Name	Price	Quantity
+1	Pen	1.50	50
+
+Inventory Management System
+1. Add product
+2. Display products
+3. Sell product
+4. Generate report
+5. Exit
+Enter choice: 5
+Exiting program.
+[?2004h
